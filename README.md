@@ -24,25 +24,25 @@ If you have trouble installing anaconda please use this link:
 https://support.anaconda.com/hc/en-us
 
 ## Part 2: Necessary packages must be installed in anaconda prompt after successful installation of anaconda
-_We did this project in another environment in Anaconda. Please refer to this youtube video:_
+_We did this project in another environment in Anaconda. Please refer to this youtube video:_ <br />
 Refer to this video to create an environment in anaconda:
 https://youtu.be/dkvgzL3gJVY?si=LiJWykBTxcHrlCVF
 
-_Type the following commands in anaconda prompt:_
+_Type the following commands in anaconda prompt:_ <br />
 pip install streamlit pypdf2 langchain python-dotenv faiss-cpu
-huggingface_hub
-pip install python-docx
-pip install InstructorEmbedding
-pip install nltk
-pip install streamlit-mic-recorder
-pip install pyttsx3
-pip install transformers
-pip install googletrans==4.0.0-rc1
-pip install autocorrect
-pip install gTTS
+huggingface_hub <br />
+pip install python-docx <br />
+pip install InstructorEmbedding <br />
+pip install nltk <br />
+pip install streamlit-mic-recorder <br />
+pip install pyttsx3 <br />
+pip install transformers <br />
+pip install googletrans==4.0.0-rc1 <br />
+pip install autocorrect <br />
+pip install gTTS <br />
 
 ## Part 3: How to run our program?
-To run the program, please open Anaconda prompt and enter the following command:
+To run the program, please open Anaconda prompt and enter the following command: <br />
 streamlit run [absolute or relative file path to FileChatty.py]
 
 Have fun testing out FileChatty!! 😀
