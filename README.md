@@ -6,7 +6,7 @@ framework to create creative, innovative and responsive user interfaces. Apart f
 used the **Spyder IDE** to write our code and Anaconda prompt to run the source code. We chose **Python**
 as the programming language. As for the **Large Language Model (LLM)**, we decided not to use
 OpenAI’s LLM because it’s a paid service. Since there are other alternative free LLMs, we chose the
-**google/flan-t5-xxl** LLM from HuggingFace, which is a Data Science and Machine Learning platform
+**google/flan-t5-xxl** LLM from **HuggingFace**, which is a Data Science and Machine Learning platform
 that is open source, serving as a central hub for AI professionals and enthusiasts, functioning akin to a
 GitHub specifically designed for AI. As for creating the **embeddings**, we will use
 **sentence-transformers/all-MiniLM-L6-v2**.
