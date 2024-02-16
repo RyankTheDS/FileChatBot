@@ -42,6 +42,8 @@ pip install autocorrect <br />
 pip install gTTS <br />
 
 ## Part 3: How to run our program?
+In the .env file, please enter your own HuggingFace API Access Token. <br/>
+
 To run the program, please open Anaconda prompt and enter the following command: <br />
 streamlit run [absolute or relative file path to FileChatty.py]
 
